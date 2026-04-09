@@ -18,7 +18,6 @@ class MainApp extends StatelessWidget {
         children: [
           Suma(),
           Suma(),
-          Suma(),
         ],
       ),    
     );
